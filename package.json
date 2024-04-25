@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@next/swc-win32-x64-msvc": "^14.2.1",
+    "@upstash/redis": "^1.30.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.372.0",
